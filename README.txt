@@ -1,2 +1,2 @@
-# SIMPLE Movie site #
-## using html + css ##
+SIMPLE Movie site
+Created using html + css
